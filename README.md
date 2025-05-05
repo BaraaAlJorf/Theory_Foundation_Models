@@ -12,7 +12,7 @@ You can find the paper [here](./Founations_proposal%20(4).pdf).
 
 ### ⚠️ Important Notes
 
-- **This repository is incomplete** by design. The dataset and some components of the dataloader are based on unpublished code from a separate project and are therefore not included here.
+- **This repository is incomplete** by design. The dataloaders and other project components are based on unpublished code from a separate project and are therefore not included here.
 - All code that was **written specifically for the class project** is included in this repository.
 - As such, **this repo is not meant to be executed out-of-the-box**. If you are interested in reproducing or building on this work, feel free to reach out to the author.
 
@@ -21,9 +21,9 @@ You can find the paper [here](./Founations_proposal%20(4).pdf).
 ### 📁 Contents
 
 - `model/`: Core model definitions used in the study
-- `experiments/`: Scripts related to training routines and evaluation
+- `trainer/`: trainer scripts  defining contrastive vs supervised learning
 - `utils/`: Utilities for logging, configuration, etc.
-- `Founations_proposal (4).pdf`: Final project report detailing theory and results
+- `Class submission. pdf`: Final project report detailing theory and results
 
 ---
 
