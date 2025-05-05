@@ -23,7 +23,7 @@ You can find the paper [here](./Founations_proposal%20(4).pdf).
 - `model/`: Core model definitions used in the study
 - `trainer/`: trainer scripts  defining contrastive vs supervised learning
 - `utils/`: Utilities for logging, configuration, etc.
-- `Class submission. pdf`: Final project report detailing theory and results
+- `Baraa_ba2797_/Final.pdf`: Final project report detailing theory and results
 
 ---
 
