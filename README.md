@@ -6,7 +6,7 @@ This repository contains code for the project **"Effectiveness of Layered Pretra
 
 The accompanying paper provides a theoretical analysis of Layered Pretraining—where Masked Language Modeling (MLM) is followed by contrastive multimodal alignment and supervised fine-tuning. We prove that this sequential strategy reduces generalization error through reductions in intraclass variance, and we validate this with empirical experiments on clinical prediction tasks using MIMIC-IV data.
 
-You can find the paper [here](./Founations_proposal%20(4).pdf).
+You can find the paper [here](./Baraa_ba2797_Final.pdf).
 
 ---
 
